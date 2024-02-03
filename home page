@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div id="topbar">
+            <a href="#">Profile</a>
+            <a href="#">Upcoming Events</a>
+            <a href="#">Donation</a>
+            <a href="#">Impact</a>
+            <a href="#">Reviews</a>
+            <a href="#">Contact Us</a>
+            <input style="color: #556F44;" placeholder="search">
+            <button id="search">Search</button>
+        </div>
+    </header>
+    <section class="quote">
+        Make a<br>
+        <div class="quote" id="word">Difference</div>
+    </section>
+    
+</body>
+</html>
