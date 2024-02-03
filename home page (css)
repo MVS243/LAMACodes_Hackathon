@@ -6,6 +6,7 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #DFD9E2;
+    color: black;
 }
 
 body{
@@ -46,23 +47,13 @@ a{
 }
 
 .fixedtext{
-    height: 250px;
+    height: 350px;
     background-color: #556F44;
     font-size: 150px;
     font-family: fantasy;
 }
 
-.quote{
-    background-color: #556F44;
-    position: relative; 
-    color:#DFD9E2;
-    width: 100%;
-}
-
-#word{
-    margin-left: 0px;
-    font-size: 150px;
-    font-family: fantasy;    
-    background-color: #556F44;
+p{
+    top: 450px;
 }
 
