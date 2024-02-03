@@ -1,0 +1,68 @@
+/* 95BF74 */
+/* 659B5E */
+/* 556F44 */
+/* DFD9E2 */
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #DFD9E2;
+}
+
+body{
+    margin: 0%;
+    height: 100%;
+}
+#topbar{
+    background-color: #95BF74; 
+    height: 50px;
+}
+
+footer{
+    left: 0%;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: #95BF74;
+}
+
+pre{
+    background-color: #95BF74;
+    text-align: center;
+}
+
+a{
+    background-color: #95BF74;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-decoration: none;
+    color: #DFD9E2;
+}
+
+#search{
+    color: #659B5E;
+    background-color: #DFD9E2;
+    border: 0cap;
+    border-radius: 20px;  
+}
+
+.fixedtext{
+    height: 250px;
+    background-color: #556F44;
+    font-size: 150px;
+    font-family: fantasy;
+}
+
+.quote{
+    background-color: #556F44;
+    position: relative; 
+    color:#DFD9E2;
+    width: 100%;
+}
+
+#word{
+    margin-left: 0px;
+    font-size: 150px;
+    font-family: fantasy;    
+    background-color: #556F44;
+}
+
