@@ -9,26 +9,59 @@
 <body>
     <header>
         <div id="topbar">
-            <a href="#">Profile</a>
-            <a href="#">Upcoming Events</a>
+            <a href="">Profile</a>
+            <a href="#sec1">Upcoming Events</a>
             <a href="#">Donation</a>
-            <a href="#">Impact</a>
+            <a href="#sec2">Impact</a>
             <a href="#">Reviews</a>
-            <a href="#">Contact Us</a>
+            <a href="#sec3">Contact Us</a>
             <input style="color: #556F44;" placeholder="search">
             <button id="search">Search</button>
         </div>
     </header>
     <section class="fixedtext">
         Make a<br>
-        Difference</div> 
-    </section>
+        <div id="t2">Difference</div> 
+    </section><br><br><br><br>
     <section>
-        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta veritatis labore ex voluptatum modi incidunt? Eos provident non molestiae earum harum quam, expedita consequuntur nesciunt in cupiditate fuga quasi aperiam.</p>
+        <div id="heading">ABOUT</div>
+        <h3>What is Volunteer work?</h3>
+        <p>Volunteer work refers activities individuals undertake on their own and offer their time, skills, and energy to help others or contribute to a cause without expecting financial compensation. It is typically organized by nonprofit organizations, charities, community groups, or governmental agencies to address various social, environmental, or humanitarian needs.</p><br><br>
+        <h3>What we do?</h3>
+        <p>This platform is a one stop destination for people passionate about giving back to the society by volunteering for social, environmental and humanitarian causes. We curate such opportunities according to your interests, making sure that you do not miss out on selfless activities! Your account here keeps record of your contributions and the impact of the cause you worked for.</p><br>
+        <h3>How can you contribute?</h3>
+        <p>Volunteer work can encompass a wide range of activities, including:
+        <br><ul><li>
+        Direct Service: This involves working directly with individuals or communities in need. Examples include serving meals at a soup kitchen, tutoring children, visiting elderly residents in nursing homes, or providing assistance to people with disabilities.</li><br> <li>   
+        Advocacy and Awareness: Volunteers may engage in activities to raise awareness about important issues or advocate for social change. This can include organizing rallies or protests, lobbying policymakers, or running campaigns to promote awareness of specific causes.</li><br><li>       
+        Fundraising and Development: Volunteers often help nonprofit organizations raise funds to support their programs and activities. This can involve organizing events such as charity auctions, marathons, or bake sales, as well as soliciting donations from individuals or businesses.</li><br><li>        
+        Environmental Conservation: Many volunteer opportunities focus on protecting and preserving the environment. This may involve activities such as planting trees, cleaning up parks or beaches, monitoring wildlife populations, or promoting recycling and sustainability practices.</li><br> <li>           
+        Disaster Relief and Emergency Response: Volunteers play a crucial role in responding to natural disasters, humanitarian crises, and other emergencies. They may provide immediate assistance such as distributing food and supplies, assisting with search and rescue efforts, or offering emotional support to affected individuals.</li><br></ul></p>
     </section>
-    <footer>
-        <pre>
-        Team LAMA Codes  ||  Lean In Hacks 5.0  ||  2024</pre>
+    <section id="sec1">
+        <div id="heading">DISCOVER</div>
+        <br>
+        <div class="cards">
+            <div><img id="pics" src="https://img.freepik.com/free-photo/elderly-person-children-holding-plant_1150-18573.jpg?size=626&ext=jpg"><h2>Environment</h2></div>
+            <div><img id="pics" src="https://img.freepik.com/free-photo/empowering-needy-communities_482257-75545.jpg?size=626&ext=jpg"><h2>Food</h2></div>
+            <div><img id="pics" src="https://img.freepik.com/premium-photo/happy-volunteer-family-separating-donations-stuffs_13339-106428.jpg?size=626&ext=jpg"><h2>Welfare</h2></div>
+            <div><img id="pics" src="https://img.freepik.com/free-photo/group-different-people-volunteering-foodbank_23-2149012215.jpg?size=626&ext=jpg"><h2>Health</h2></div>
+        </div>
+    </section><br>
+    <br>
+    <section id="sec2">
+        <div id="heading">IMPACT</div><br>
+        <p>Volunteer activities can have a significant impact on individuals, communities, and society as a whole. The general impact is as follows:
+            <ul><br><li>
+            Individual Impact: For volunteers themselves, participating in volunteer activities can lead to personal growth and development. They may gain new skills, such as leadership, communication, and problem-solving, which can enhance their professional and personal lives. Volunteering also provides opportunities for social interaction, networking, and building meaningful relationships.</li><br><li>           
+            Community Impact: Volunteer activities contribute to the well-being and cohesion of communities. By addressing social, environmental, and humanitarian needs, volunteers help to improve the quality of life for community members. They may provide essential services, support local organizations and initiatives, and strengthen community ties through collaboration and cooperation.</li><br><li>        
+            Social Impact: Volunteer work plays a crucial role in addressing social issues and promoting social change. Volunteers often work on projects that aim to reduce poverty, inequality, discrimination, and other forms of injustice. Through their efforts, they raise awareness, advocate for policy changes, and empower marginalized groups to overcome challenges and achieve greater social equity.</li><br><li>          
+            Economic Impact: Although volunteer work is unpaid, it can have positive economic effects on society. By filling gaps in social services, volunteers help to reduce the burden on government agencies and nonprofit organizations, saving taxpayer money and allowing resources to be allocated more efficiently. Additionally, volunteering can enhance employability and job prospects for individuals by providing valuable experience and skills development.</li><br>            
+            <li>Environmental Impact: Volunteer activities focused on environmental conservation and sustainability contribute to the protection and preservation of natural resources and ecosystems. By planting trees, cleaning up litter, promoting recycling, and advocating for environmental policies, volunteers help to mitigate the impact of human activities on the planet and promote a more sustainable future.</li></ul></p>
+    </section>
+    <img id="strip" src="https://t4.ftcdn.net/jpg/00/32/06/91/240_F_32069160_96JpOLqNYK15MBN3UPlXBpZjuj3HyGqx.jpg">
+    <footer id="sec3">
+        <pre>Team LAMA Codes  ||  Lean In Hacks 5.0  ||  2024</pre>
     </footer>   
 </body>
 </html>
