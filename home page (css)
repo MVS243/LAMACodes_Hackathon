@@ -14,15 +14,16 @@ body{
     height: 800px;
 }
 #topbar{
+    position: fixed;
     background-color: #95BF74; 
     height: 50px;
+    width: 100%;
 }
 
 footer{
     left: 0%;
     bottom: 0px;
     width: 100%;
-    position: fixed;
     background-color: #95BF74;
 }
 
@@ -48,12 +49,58 @@ a{
 
 .fixedtext{
     height: 350px;
+    width: 100%;
     background-color: #556F44;
     font-size: 150px;
     font-family: fantasy;
 }
 
-p{
-    top: 450px;
+#t2{
+    background-color: #556F44;
+    color: #DFD9E2;
+    font-family: fantasy;
+    width: 100%;
 }
 
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    top: 500px;
+    color: #556F44;
+}
+
+h3, ul{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#heading{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #556F44;
+    font-size: 100px;
+    font-family: fantasy;
+}
+
+.cards{
+    display: flex;
+    width: 100%;
+}
+
+#pics{
+    margin-left: 50px;
+    height: 300px;
+    width: 260px;
+}
+
+h2{
+    padding-left: 100px;
+    text-align: center;
+    display:flex;
+    color:#659B5E;
+}
+
+#strip{
+    height: 200px;
+    width: 100%;
+}
