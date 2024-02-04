@@ -1,0 +1,27 @@
+body
+{
+    background-color:rgb(185, 228, 185);
+}
+
+a:hover{
+    color: rgb(85, 85, 85);   
+    font-weight: bold; 
+}
+a:visited{
+    color: rgb(85, 85, 85);
+    text-decoration: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+}
+
+form{
+    background-color: white; 
+    border-style: solid; 
+    border-color: grey; 
+    border-width: 1px; 
+    border-radius: 2%; 
+    padding: 50px;}
